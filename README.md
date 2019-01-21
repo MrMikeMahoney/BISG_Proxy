@@ -1,2 +1,2 @@
-# BSIG_Proxy
-Recreates the BSIG Proxy
+# BISG_Proxy
+Recreates the BISG Proxy (Bayesian Improved Surname Geocoding (BISG) proxy) in Python.
